@@ -1,2 +1,2 @@
-# GraphlBasics
+# GraphqlBasics
 API creation
